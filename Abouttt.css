@@ -1,0 +1,20 @@
+
+body {
+	background-image: url(jjc.jpeg);
+	background-size: cover;
+ 	opacity:84%; 
+
+}
+
+h3{
+text-align: center;
+color: silver;
+}
+h4{
+	color: white;
+	text-align: center;
+	font-size: 16px;
+	font-family: fantasy;
+	line-height: 50px;
+	border: 5px solid white;
+}
